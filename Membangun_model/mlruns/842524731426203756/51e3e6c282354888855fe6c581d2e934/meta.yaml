@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Eksperimen_SML_YustianasRombon/Membangun_model/mlruns/842524731426203756/51e3e6c282354888855fe6c581d2e934/artifacts
+end_time: 1766303717392
+entry_point_name: ''
+experiment_id: '842524731426203756'
+lifecycle_stage: active
+run_id: 51e3e6c282354888855fe6c581d2e934
+run_name: Trial_1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766303717284
+status: 3
+tags: []
+user_id: yusti

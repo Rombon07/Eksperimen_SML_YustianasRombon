@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Eksperimen_SML_YustianasRombon/Membangun_model/mlruns/842524731426203756/models/m-6c2d1ab72ec64a7caa0915b16f118beb/artifacts
+creation_timestamp: 1766303717709
+experiment_id: '842524731426203756'
+last_updated_timestamp: 1766303721167
+model_id: m-6c2d1ab72ec64a7caa0915b16f118beb
+model_type: null
+name: model
+source_run_id: c214c0cec9b04c91a1a5a639f7a51e63
+status: 2
+status_message: null

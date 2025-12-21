@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Eksperimen_SML_YustianasRombon/Membangun_model/mlruns/959769598556124308/models/m-9b21dfe5c4bf4b238ecf3f4cfd6a90b8/artifacts
+creation_timestamp: 1766303306608
+experiment_id: '959769598556124308'
+last_updated_timestamp: 1766303310755
+model_id: m-9b21dfe5c4bf4b238ecf3f4cfd6a90b8
+model_type: null
+name: best_model
+source_run_id: 290e13bc82934c20aa35ecc9b74b7ffe
+status: 2
+status_message: null

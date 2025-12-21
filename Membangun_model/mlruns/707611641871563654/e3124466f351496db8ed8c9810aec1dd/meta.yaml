@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Eksperimen_SML_YustianasRombon/Membangun_model/mlruns/707611641871563654/e3124466f351496db8ed8c9810aec1dd/artifacts
+end_time: 1766302456449
+entry_point_name: ''
+experiment_id: '707611641871563654'
+lifecycle_stage: active
+run_id: e3124466f351496db8ed8c9810aec1dd
+run_name: Tuning_RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766302443908
+status: 4
+tags: []
+user_id: yusti

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Eksperimen_SML_YustianasRombon/Membangun_model/mlruns/842524731426203756/c214c0cec9b04c91a1a5a639f7a51e63/artifacts
+end_time: 1766303721381
+entry_point_name: ''
+experiment_id: '842524731426203756'
+lifecycle_stage: active
+run_id: c214c0cec9b04c91a1a5a639f7a51e63
+run_name: Proses_Tuning_Utama
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766303710664
+status: 3
+tags: []
+user_id: yusti
